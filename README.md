@@ -18,4 +18,4 @@ make all
 | Model performance in validation experiment | <img src="images/performance_validation.png" width="300"> |   |
 
 The code and data in this notebook fit together like this:
-<img src="images/nbflow.png" width="300">
+<img src="images/nbflow.png" width="700">
