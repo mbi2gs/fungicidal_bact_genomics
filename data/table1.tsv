@@ -1,0 +1,338 @@
+variable	category	active_count	total_count	p_value	fdr_corrected_pval
+species	Bacillus velezensis	2	4	0.0014269548241646582	0.2690247496138273
+family	Bacillaceae	3	19	0.0026384166416683653	0.2690247496138273
+genus	Bacillus	3	19	0.0026384166416683653	0.2690247496138273
+class	Bacilli	6	118	0.004306424964654794	0.2690247496138273
+phylum	Firmicutes	6	118	0.004306424964654794	0.2690247496138273
+sample_type	Soil	4	48	0.00478975815336191	0.2690247496138273
+country	Uganda	3	32	0.012094204635953006	0.5822495660451662
+species	MA-N2 sp002009585	1	1	0.01648351648351358	0.6943681318680095
+species	Lysinibacillus pakistanensis	1	2	0.03272507309203414	1.0
+family	Planococcaceae	2	19	0.03572685305525008	1.0
+order	Bacillales_A	2	19	0.03572685305525008	1.0
+genus	Paenibacillus_B	1	3	0.04872778327987692	1.0
+species	Bacillus_A cereus	1	3	0.04872778327987692	1.0
+species	Paenibacillus_B sp001894745	1	3	0.04872778327987692	1.0
+order	Bacillales	4	93	0.050054696939859075	1.0
+genus	MA-N2	1	4	0.06449472609846738	1.0
+state	Amuria	2	27	0.06842643600037282	1.0
+state	Soroti	1	5	0.08002894651378675	1.0
+species	Bacillus safensis	1	5	0.08002894651378675	1.0
+species	Pseudomonas_E chlororaphis	1	10	0.15431343986951676	1.0
+state	Ohio	1	11	0.16851340076708018	1.0
+genus	Lysinibacillus	1	13	0.19627909839983432	1.0
+order	Paenibacillales	1	25	0.3462421513419607	1.0
+family	Paenibacillaceae	1	25	0.3462421513419607	1.0
+sample_type	Core	2	74	0.3502228625560778	1.0
+class	Bacilli_A	1	29	0.3903823242163498	1.0
+phylum	Firmicutes_I	1	29	0.3903823242163498	1.0
+genus	Bacillus_A	1	30	0.40099462418158865	1.0
+sample_type	Other	1	33	0.4318532526949004	1.0
+family	Bacillaceae_G	1	36	0.46129062058765374	1.0
+state	Illinois	1	53	0.6039262887109208	1.0
+family	Micrococcaceae	1	71	0.7173947630405425	1.0
+genus	Pseudomonas_E	1	77	0.7481934099569209	1.0
+family	Pseudomonadaceae	1	90	0.8049109413917187	1.0
+order	Actinomycetales	1	98	0.8338763701999645	1.0
+order	Pseudomonadales	1	100	0.8404912522708601	1.0
+phylum	Actinobacteriota	1	108	0.8646715319503452	1.0
+class	Actinobacteria	1	108	0.8646715319503452	1.0
+sample_type	Root	2	195	0.8894855160147696	1.0
+species	gtdb_novel_strain	1	125	0.9055503529213347	1.0
+state	North Carolina	4	335	0.9167594549826447	1.0
+class	Gammaproteobacteria	1	277	0.9984038338616413	1.0
+phylum	Proteobacteria	1	284	0.9987456105995135	1.0
+country	United States	6	514	0.9989981128114147	1.0
+species	Ralstonia sp900115545	0	2	1.0	1.0
+species	Acinetobacter gyllenbergii	0	2	1.0	1.0
+species	Pseudarthrobacter sp001423525	0	1	1.0	1.0
+species	Bacillus pumilus	0	2	1.0	1.0
+species	Rhizobium sp900466475	0	1	1.0	1.0
+species	Rhodococcus qingshengii	0	2	1.0	1.0
+species	Bacillus_A cereus_T	0	2	1.0	1.0
+species	Cellulosimicrobium cellulans_E	0	1	1.0	1.0
+species	Bacillus_AC circulans	0	2	1.0	1.0
+species	Enterobacter ludwigii	0	2	1.0	1.0
+species	Rummeliibacillus stabekisii	0	2	1.0	1.0
+species	Staphylococcus pasteuri	0	2	1.0	1.0
+species	Pseudomonas_E sp000282535	0	2	1.0	1.0
+species	Pseudomonas_E putida_J	0	2	1.0	1.0
+species	Bacillus_X sp002835675	0	1	1.0	1.0
+species	Rahnella sp003263545	0	1	1.0	1.0
+species	Pseudomonas_E trivialis	0	1	1.0	1.0
+species	Cellulosimicrobium aquatile	0	1	1.0	1.0
+species	Pseudomonas_E sp002966775	0	1	1.0	1.0
+species	Pseudomonas_E sp002113165	0	1	1.0	1.0
+species	Pseudomonas_E sp002438125	0	1	1.0	1.0
+species	Bacillus_W sp002567005	0	1	1.0	1.0
+species	Pseudomonas_E sp900110765	0	1	1.0	1.0
+species	Bacillus_Q onubensis_B	0	1	1.0	1.0
+species	Bacillus_F marisflavi_A	0	1	1.0	1.0
+species	Bacillus_F marisflavi	0	1	1.0	1.0
+species	Serratia marcescens	0	2	1.0	1.0
+species	Bacillus_AW luciferensis_B	0	2	1.0	1.0
+species	Pantoea ananatis	0	2	1.0	1.0
+species	Burkholderia cepacia	0	2	1.0	1.0
+species	Bacillus_A thuringiensis_J	0	3	1.0	1.0
+species	Enterobacter asburiae	0	3	1.0	1.0
+species	Pseudarthrobacter sp000374865	0	3	1.0	1.0
+species	Acinetobacter oleivorans	0	3	1.0	1.0
+species	Lysinibacillus xylanilyticus_A	0	3	1.0	1.0
+species	Pseudomonas_E fluorescens_AR	0	3	1.0	1.0
+species	Lysinibacillus fusiformis_C	0	3	1.0	1.0
+species	Pseudomonas_E plecoglossicida	0	3	1.0	1.0
+species	Pseudarthrobacter enclensis	0	3	1.0	1.0
+species	Microbacterium trichothecenolyticum	0	4	1.0	1.0
+species	Bacillus_A pseudomycoides	0	4	1.0	1.0
+species	Bacillus_A thuringiensis	0	4	1.0	1.0
+species	Pseudomonas_E sp000316175	0	4	1.0	1.0
+species	Burkholderia ambifaria	0	4	1.0	1.0
+species	Arthrobacter_I sp900168135	0	5	1.0	1.0
+species	Bacillus altitudinis	0	3	1.0	1.0
+species	Bacillus_AW sp002564465	0	2	1.0	1.0
+species	Paraburkholderia graminis	0	3	1.0	1.0
+species	Serratia sp001642805	0	3	1.0	1.0
+species	Citrobacter portucalensis	0	2	1.0	1.0
+species	Enterobacter mori	0	2	1.0	1.0
+species	Herbaspirillum aquaticum	0	2	1.0	1.0
+species	Herbaspirillum seropedicae	0	2	1.0	1.0
+species	Lysinibacillus boronitolerans	0	2	1.0	1.0
+species	Acinetobacter sp000369705	0	2	1.0	1.0
+species	Paraburkholderia caledonica	0	2	1.0	1.0
+species	Paenibacillus illinoisensis	0	2	1.0	1.0
+species	Microbacterium hydrocarbonoxydans_A	0	2	1.0	1.0
+species	Chryseobacterium artocarpi	0	1	1.0	1.0
+species	Paenibacillus panacisoli	0	2	1.0	1.0
+species	Pseudomonas_E arsenicoxydans	0	3	1.0	1.0
+species	Brevibacillus reuszeri_A	0	3	1.0	1.0
+species	MA-N2 sp001549895	0	3	1.0	1.0
+species	Pseudarthrobacter sp003208335	0	3	1.0	1.0
+species	Bacillus subtilis	0	3	1.0	1.0
+species	Chryseobacterium cucumeris	0	1	1.0	1.0
+selection_tool	diversity	9	546	1.0	1.0
+species	Comamonas_B thiooxydans	0	1	1.0	1.0
+species	Pseudomonas_E sp002000165	0	1	1.0	1.0
+species	Pseudomonas_E poae	0	1	1.0	1.0
+species	Empedobacter brevis	0	1	1.0	1.0
+species	Pseudomonas_E moraviensis	0	1	1.0	1.0
+species	Pseudomonas_E mohnii	0	1	1.0	1.0
+species	Pantoea vagans_A	0	1	1.0	1.0
+species	Pseudomonas_B oryzihabitans	0	1	1.0	1.0
+species	Paenibacillus_K terrigena	0	1	1.0	1.0
+species	Paenibacillus_C sp001682865	0	1	1.0	1.0
+species	Pseudomonas_B oryzihabitans_D	0	1	1.0	1.0
+species	Paenibacillus sp001447315	0	1	1.0	1.0
+species	Paenibacillus polysaccharolyticus	0	1	1.0	1.0
+species	Pseudomonas_E brassicacearum_A	0	1	1.0	1.0
+species	Paenibacillus lautus	0	1	1.0	1.0
+species	Pseudomonas_E brassicacearum_C	0	1	1.0	1.0
+species	Pseudomonas_E sp001945445	0	1	1.0	1.0
+species	Paenibacillus amylolyticus_B	0	1	1.0	1.0
+species	Pseudomonas_E sp001655615	0	1	1.0	1.0
+species	Enterobacter sesami	0	1	1.0	1.0
+species	Luteibacter rhizovicinus	0	1	1.0	1.0
+species	Leaf337 sp000685965	0	1	1.0	1.0
+species	Kosakonia cowanii	0	1	1.0	1.0
+species	Pseudomonas_E proteolytica	0	1	1.0	1.0
+species	Klebsiella_A oxytoca	0	1	1.0	1.0
+species	Klebsiella variicola	0	1	1.0	1.0
+species	Pseudomonas_E putida_M	0	1	1.0	1.0
+species	Pseudomonas_E sp000282315	0	1	1.0	1.0
+species	Gordonia polyisoprenivorans	0	1	1.0	1.0
+species	Flavobacterium sp002210235	0	1	1.0	1.0
+species	Escherichia flexneri	0	1	1.0	1.0
+species	Erwinia sp002752575	0	1	1.0	1.0
+species	Erwinia iniecta	0	1	1.0	1.0
+species	Enterococcus_B pernyi	0	1	1.0	1.0
+species	Enterobacter sp000568095	0	1	1.0	1.0
+species	Pseudomonas_E sp001511755	0	1	1.0	1.0
+species	Paenarthrobacter sp001542565	0	1	1.0	1.0
+species	Pseudomonas_E fluorescens_AM	0	1	1.0	1.0
+species	Ochrobactrum_A pseudogrignonense	0	1	1.0	1.0
+species	Staphylococcus succinus	0	1	1.0	1.0
+species	Streptomyces griseorubiginosus	0	1	1.0	1.0
+species	Pseudomonas_E sp001642705	0	5	1.0	1.0
+species	Arthrobacter_B koreensis	0	1	1.0	1.0
+species	Agrobacterium tumefaciens	0	1	1.0	1.0
+species	Agrobacterium salinitolerans	0	1	1.0	1.0
+species	Acinetobacter sp000369785	0	1	1.0	1.0
+species	Variovorax sp900109805	0	1	1.0	1.0
+species	Acinetobacter pittii	0	1	1.0	1.0
+species	Variovorax sp900115375	0	1	1.0	1.0
+species	Staphylococcus warneri	0	1	1.0	1.0
+species	Bacillus_AA kochii	0	1	1.0	1.0
+species	Bacillus_A wiedmannii	0	1	1.0	1.0
+species	Brevibacillus brevis_D	0	1	1.0	1.0
+species	Curtobacterium pusillum	0	1	1.0	1.0
+species	Curtobacterium sp900086645	0	1	1.0	1.0
+species	Staphylococcus epidermidis	0	1	1.0	1.0
+species	Sphingobacterium sp002420705	0	1	1.0	1.0
+species	Bacillus_A cereus_AW	0	1	1.0	1.0
+species	Nocardioides sp000745515	0	1	1.0	1.0
+species	Pseudomonas_E fluorescens_AN	0	1	1.0	1.0
+species	Microbacterium sp900292075	0	1	1.0	1.0
+species	Yokenella regensburgei	0	1	1.0	1.0
+species	Pseudomonas_E hunanensis	0	1	1.0	1.0
+species	Pseudomonas_E koreensis_A	0	1	1.0	1.0
+species	Pseudomonas_E moorei	0	1	1.0	1.0
+species	Pseudomonas_E sp002112885	0	1	1.0	1.0
+species	Pseudarthrobacter sp900110595	0	1	1.0	1.0
+species	Curtobacterium sp001742745	0	1	1.0	1.0
+species	Rhodococcus kyotonensis_B	0	1	1.0	1.0
+species	Bacillus_A sp001884105	0	1	1.0	1.0
+species	Serratia plymuthica	0	1	1.0	1.0
+species	Bacillus_A cereus_P	0	1	1.0	1.0
+species	Bacillus_A cereus_K	0	1	1.0	1.0
+species	Bacillus_A cereus_AX	0	1	1.0	1.0
+species	Delftia tsuruhatensis	0	1	1.0	1.0
+species	Streptomyces sp900105245	0	1	1.0	1.0
+genus	Sporosarcina_B	0	1	1.0	1.0
+species	Raoultella planticola	0	6	1.0	1.0
+family	Nocardioidaceae	0	2	1.0	1.0
+family	Cellulomonadaceae	0	2	1.0	1.0
+family	Xanthomonadaceae	0	2	1.0	1.0
+family	Bacillaceae_B	0	2	1.0	1.0
+family	Bacillaceae_D	0	2	1.0	1.0
+family	Streptomycetaceae	0	3	1.0	1.0
+family	Sphingobacteriaceae	0	2	1.0	1.0
+family	Rhodanobacteraceae	0	3	1.0	1.0
+family	Weeksellaceae	0	4	1.0	1.0
+family	Rhizobiaceae	0	4	1.0	1.0
+family	Staphylococcaceae	0	5	1.0	1.0
+family	Mycobacteriaceae	0	5	1.0	1.0
+family	Bacillaceae_A	0	8	1.0	1.0
+family	Moraxellaceae	0	10	1.0	1.0
+family	Brevibacillaceae	0	4	1.0	1.0
+family	Caulobacteraceae	0	1	1.0	1.0
+family	Chromobacteriaceae	0	1	1.0	1.0
+family	Beijerinckiaceae	0	1	1.0	1.0
+genus	Acinetobacter	0	10	1.0	1.0
+genus	Herbaspirillum	0	10	1.0	1.0
+genus	Paenibacillus	0	13	1.0	1.0
+genus	Microbacterium	0	17	1.0	1.0
+genus	Klebsiella_B	0	20	1.0	1.0
+genus	Paenarthrobacter	0	23	1.0	1.0
+genus	Bacillus_C	0	24	1.0	1.0
+genus	Pseudarthrobacter	0	27	1.0	1.0
+genus	Enterobacter	0	44	1.0	1.0
+genus	Variovorax	0	51	1.0	1.0
+family	Flavobacteriaceae	0	1	1.0	1.0
+family	Sphingomonadaceae	0	1	1.0	1.0
+family	Enterococcaceae	0	1	1.0	1.0
+family	Domibacillaceae	0	1	1.0	1.0
+family	Bacillaceae_L	0	1	1.0	1.0
+family	Bacillaceae_H	0	24	1.0	1.0
+family	Microbacteriaceae	0	25	1.0	1.0
+family	Burkholderiaceae	0	79	1.0	1.0
+family	Enterobacteriaceae	0	92	1.0	1.0
+state	Florida	0	2	1.0	1.0
+state	Hawaii	0	2	1.0	1.0
+state	Kentucky	0	2	1.0	1.0
+state	Arkansas	0	4	1.0	1.0
+state	Minnesota	0	7	1.0	1.0
+state	Iowa	0	16	1.0	1.0
+state	Missouri	0	32	1.0	1.0
+state	Indiana	0	48	1.0	1.0
+sample_type	Excrement	0	3	1.0	1.0
+sample_type	Plant	0	3	1.0	1.0
+sample_type	Grainbin Dust	0	4	1.0	1.0
+sample_type	Leaf	0	13	1.0	1.0
+sample_type	Tuber	0	25	1.0	1.0
+sample_type	Insect	0	31	1.0	1.0
+sample_type	Amphibian	0	117	1.0	1.0
+state	Pennsylvania	0	1	1.0	1.0
+genus	Pseudomonas_F	0	9	1.0	1.0
+state	Oklahoma	0	1	1.0	1.0
+class	Bacteroidia	0	7	1.0	1.0
+order	Sphingomonadales	0	1	1.0	1.0
+order	Caulobacterales	0	1	1.0	1.0
+order	Lactobacillales	0	1	1.0	1.0
+order	Sphingobacteriales	0	2	1.0	1.0
+order	Propionibacteriales	0	2	1.0	1.0
+order	Streptomycetales	0	3	1.0	1.0
+order	Brevibacillales	0	4	1.0	1.0
+order	Mycobacteriales	0	5	1.0	1.0
+order	Staphylococcales	0	5	1.0	1.0
+order	Rhizobiales	0	5	1.0	1.0
+order	Xanthomonadales	0	5	1.0	1.0
+order	Flavobacteriales	0	5	1.0	1.0
+order	Burkholderiales	0	80	1.0	1.0
+order	Enterobacterales	0	92	1.0	1.0
+class	Alphaproteobacteria	0	7	1.0	1.0
+phylum	Bacteroidota	0	7	1.0	1.0
+species	Herbaspirillum huttiense	0	5	1.0	1.0
+genus	Paenibacillus_C	0	8	1.0	1.0
+genus	Raoultella	0	7	1.0	1.0
+genus	Sphingomonas	0	1	1.0	1.0
+genus	Klebsiella	0	1	1.0	1.0
+genus	Klebsiella_A	0	1	1.0	1.0
+genus	Sphingobacterium	0	1	1.0	1.0
+genus	Kosakonia	0	1	1.0	1.0
+genus	Leaf337	0	1	1.0	1.0
+genus	Gordonia	0	1	1.0	1.0
+genus	Microvirga	0	1	1.0	1.0
+genus	Ochrobactrum_A	0	1	1.0	1.0
+genus	Rhizobium	0	1	1.0	1.0
+genus	Paenibacillus_K	0	1	1.0	1.0
+genus	Pseudacidovorax	0	1	1.0	1.0
+genus	Delftia	0	1	1.0	1.0
+genus	Comamonas_B	0	1	1.0	1.0
+genus	Mucilaginibacter	0	1	1.0	1.0
+genus	Flavobacterium	0	1	1.0	1.0
+genus	Ewingella	0	1	1.0	1.0
+genus	Enterococcus_B	0	1	1.0	1.0
+species	Enterobacter sp000493015	0	6	1.0	1.0
+species	Pseudomonas_F otitidis	0	8	1.0	1.0
+species	Bacillus_C aryabhattai	0	8	1.0	1.0
+species	Paenarthrobacter sp001423565	0	8	1.0	1.0
+species	Bacillus_A toyonensis	0	8	1.0	1.0
+species	Variovorax paradoxus_A	0	8	1.0	1.0
+species	Pseudomonas_E sp001259595	0	15	1.0	1.0
+species	Bacillus_C megaterium	0	16	1.0	1.0
+species	Klebsiella_B aerogenes	0	20	1.0	1.0
+species	Enterobacter kobei	0	26	1.0	1.0
+species	Variovorax sp003019815	0	32	1.0	1.0
+genus	Yokenella	0	1	1.0	1.0
+genus	Domibacillus	0	1	1.0	1.0
+genus	Empedobacter	0	1	1.0	1.0
+species	Luteibacter sp000745055	0	1	1.0	1.0
+genus	Escherichia	0	1	1.0	1.0
+genus	Rahnella	0	1	1.0	1.0
+genus	B6	0	1	1.0	1.0
+genus	Bacillus_AA	0	1	1.0	1.0
+genus	Citrobacter	0	3	1.0	1.0
+genus	Chryseobacterium	0	3	1.0	1.0
+genus	Luteibacter	0	3	1.0	1.0
+genus	Streptomyces	0	3	1.0	1.0
+genus	Ralstonia	0	4	1.0	1.0
+genus	Brevibacillus	0	4	1.0	1.0
+genus	Rhodococcus	0	4	1.0	1.0
+genus	Bacillus_W	0	4	1.0	1.0
+genus	Paraburkholderia	0	5	1.0	1.0
+genus	Arthrobacter	0	5	1.0	1.0
+genus	Staphylococcus	0	5	1.0	1.0
+genus	Bacillus_AW	0	6	1.0	1.0
+genus	Burkholderia	0	6	1.0	1.0
+genus	Curtobacterium	0	6	1.0	1.0
+genus	Serratia	0	6	1.0	1.0
+genus	Pantoea	0	3	1.0	1.0
+genus	Arthrobacter_I	0	8	1.0	1.0
+genus	Lysinibacillus_A	0	2	1.0	1.0
+genus	Leifsonia	0	2	1.0	1.0
+genus	Arthrobacter_B	0	1	1.0	1.0
+genus	Arthrobacter_A	0	1	1.0	1.0
+genus	Bacillus_X	0	1	1.0	1.0
+genus	Bacillus_Q	0	1	1.0	1.0
+genus	Brevundimonas	0	1	1.0	1.0
+genus	Chromobacterium	0	1	1.0	1.0
+genus	Erwinia	0	2	1.0	1.0
+genus	Rummeliibacillus	0	2	1.0	1.0
+genus	Bacillus_F	0	2	1.0	1.0
+genus	Pseudomonas	0	2	1.0	1.0
+genus	Cellulosimicrobium	0	2	1.0	1.0
+genus	Bacillus_AC	0	2	1.0	1.0
+genus	Pseudomonas_B	0	2	1.0	1.0
+genus	Nocardioides	0	2	1.0	1.0
+genus	Thermomonas	0	2	1.0	1.0
+genus	Agrobacterium	0	2	1.0	1.0
+species	Microbacterium paludicola	0	1	1.0	1.0

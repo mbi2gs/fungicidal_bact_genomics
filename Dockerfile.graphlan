@@ -1,0 +1,5 @@
+FROM continuumio/anaconda:5.2.0
+
+RUN conda install -c bioconda biopython graphlan
+
+ENV PATH="/opt/conda/bin:${PATH}"

@@ -1,0 +1,37 @@
+fam_cluster_id	top_sa_importance	top10_sa_enriched	average_product_class	average_kcb	taxonomic_distribution
+ripps2539	True	True	bacteriocin	None	genus:Bacillus_A
+nrps2550	True	True	NRPS	Elsinochrome A	genus:Bacillus_A
+others2545	True	True	betalactone	Fengycin	genus:Bacillus_A
+pksnrp3708	True	True	NRPS;T1PKS	Zwittermycin A	genus:Bacillus_A
+terpene2537	True	False	terpene	Molybdenum cofactor	genus:Bacillus_A
+nrps2808	True	False	NRPS	Thiazostatin / watasemycin A / watasemycin B / 2-hydroxyphenylthiazoline enantiopyochelin / isopyochelin	genus:Pseudomonas_E
+terpene4046	True	False	terpene	Molybdenum cofactor	genus:Bacillus_A
+ripps3967	True	False	bacteriocin	None	genus:Bacillus_A
+nrps9204	True	False	NRPS	None	genus:Bacillus_A
+others2542	True	False	siderophore	Petrobactin	genus:Bacillus_A
+ripps2548	True	False	lanthipeptide	None	genus:Bacillus_A
+terpene6941	True	False	terpene	None	species:gtdb_novel_strain
+nrps4047	True	False	NRPS;T1PKS	Zwittermycin A	genus:Bacillus_A
+ripps9214	True	False	sactipeptide	Thurincin H	species:Bacillus_A thuringiensis_J
+nrps2540	True	False	NRPS	Zwittermycin A	species:Bacillus_A thuringiensis_J
+ripps2935	True	False	bacteriocin	None	genus:Bacillus_A
+nrps8318	True	False	NRPS	Polyoxypeptin	genus:Bacillus_A
+others3835	True	False	lanthipeptide	Zwittermycin A	species:Bacillus_A thuringiensis_J
+nrps2971	True	False	NRPS	None	species:Pseudomonas_E sp001547895
+nrps10661	True	False	NRPS	None	species:Bacillus subtilis
+pksother8188	True	False	T3PKS	None	genus:Bacillus
+nrps11511	True	False	NRPS	Surfactin	genus:Bacillus
+ripps2937	True	False	bacteriocin	None	species:Bacillus_A thuringiensis_J
+nrps1086	True	False	NRPS	Pyoverdine	species:Pseudomonas_E chlororaphis
+terpene11261	True	False	terpene	None	genus:Bacillus
+others11626	True	False	lanthipeptide	Zwittermycin A	genus:Bacillus_A
+ripps5084	True	False	lanthipeptide	None	order:Bacillales
+ripps7030	True	False	bacteriocin	None	species:Brevibacillus reuszeri_A
+nrps4051	False	True	NRPS-like	None	genus:Bacillus_A
+ripps3390	False	True	bacteriocin	None	species:Bacillus_A toyonensis
+nrps4795	False	True	NRPS	Pyoverdine	species:Pseudomonas_E protegens
+ripps4045	False	True	bacteriocin;LAP	None	genus:Bacillus_A
+nrps2943	False	True	NRPS	Lipopeptide 8D1-1 / lipopeptide 8D1-2	species:Pseudomonas_E protegens
+others2810	False	True	other	Pyrrolnitrin	class:Gammaproteobacteria
+pksother4889	False	True	PKS-like	Anikasin	species:Pseudomonas_E protegens
+nrps4050	False	True	NRPS	Bacillibactin	genus:Bacillus_A

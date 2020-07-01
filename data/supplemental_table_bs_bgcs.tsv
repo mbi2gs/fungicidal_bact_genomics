@@ -1,0 +1,29 @@
+fam_cluster_id	top_bs_importance	top10_bs_enriched	average_product_class	average_kcb	taxonomic_distribution
+nrps4050	True	False	NRPS	Bacillibactin	genus:Bacillus_A
+others4222	True	True	CDPS	None	genus:Pseudomonas_E
+nrps4047	True	False	NRPS;T1PKS	Zwittermycin A	genus:Bacillus_A
+ripps2941	True	True	bacteriocin	None	genus:Pseudomonas_E
+others9203	True	False	siderophore	Petrobactin	genus:Bacillus_A
+nrps4841	True	True	NRPS	Syringomycin	species:Pseudomonas_E protegens
+nrps3014	True	False	NRPS	None	species:Bacillus_A toyonensis
+others7677	True	False	other	Bacilysin	genus:Bacillus
+ripps2504	True	False	LAP;bacteriocin	None	species:Bacillus_A toyonensis
+others3454	True	False	betalactone	None	genus:Bacillus
+ripps7679	True	False	bacteriocin	None	genus:Bacillus
+nrps7678	True	False	NRPS	Surfactin	genus:Bacillus
+pksother12634	True	False	NRPS;transAT-PKS;betalactone	Fengycin	species:Bacillus velezensis
+ripps11067	True	False	LAP	Plantazolicin	species:Bacillus safensis
+terpene7676	True	False	siderophore	Carotenoid	genus:Bacillus
+ripps3993	True	False	bacteriocin	None	genus:Bacillus_A
+ripps10679	True	False	bacteriocin	None	species:Bacillus safensis
+nrps1603	True	False	NRPS	Pyoverdine	species:Pseudomonas_E extremorientalis
+terpene1433	True	False	terpene	Carotenoid	species:gtdb_novel_strain
+nrps4795	False	True	NRPS	Pyoverdine	species:Pseudomonas_E protegens
+nrps2943	False	True	NRPS	Lipopeptide 8D1-1 / lipopeptide 8D1-2	species:Pseudomonas_E protegens
+others2810	False	True	other	Pyrrolnitrin	class:Gammaproteobacteria
+pksother4889	False	True	PKS-like	Anikasin	species:Pseudomonas_E protegens
+others3032	False	True	arylpolyene	APE Vf	genus:Pseudomonas_E
+ripps4856	False	True	bacteriocin	None	genus:Pseudomonas_E
+pksother2939	False	True	T3PKS	2,4-Diacetylphloroglucinol	family:Pseudomonadaceae
+nrps2808	False	True	NRPS	Thiazostatin / watasemycin A / watasemycin B / 2-hydroxyphenylthiazoline enantiopyochelin / isopyochelin	genus:Pseudomonas_E
+others3030	False	True	NAGGN	None	family:Pseudomonadaceae

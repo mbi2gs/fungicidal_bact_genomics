@@ -1,0 +1,160 @@
+LOCUS       SID00512_ctg18                    1049 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  SID00512_ctg18.
+ACCESSION   SID00512_ctg18
+VERSION     SID00512_ctg18
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 5.0.0
+            Run date     :: 2019-06-20 18:53:18
+            NOTE: This is a single cluster extracted from a larger record!
+            Orig. start  :: 0
+            Orig. end    :: 1049
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     CDS             complement(1..1047)
+                     /NRPS_PKS="Domain: PCP (239-307). E-value: 6.8e-29. Score:
+                     91.6. Matches aSDomain: nrpspksdomains_ctg55_1_PCP.1"
+                     /NRPS_PKS="type: other"
+                     /gene_functions="biosynthetic (rule-based-clusters) NRPS:
+                     AMP-binding"
+                     /gene_functions="biosynthetic (rule-based-clusters) NRPS:
+                     Condensation"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) PP-binding"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1002:AMP-dependent synthetase and ligase (Score:
+                     151.4; E-value: 4.8e-46)"
+                     /gene_kind="biosynthetic"
+                     /locus_tag="ctg55_1"
+                     /sec_met_domain="Condensation (E-value: 3e-09, bitscore:
+                     22.4, seeds: 42, tool: rule-based-clusters)"
+                     /sec_met_domain="AMP-binding (E-value: 7.4e-49, bitscore:
+                     152.4, seeds: 400, tool: rule-based-clusters)"
+                     /sec_met_domain="PP-binding (E-value: 4.4e-20, bitscore:
+                     58.3, seeds: 164, tool: rule-based-clusters)"
+                     /transl_table=11
+                     /translation="RGLLTGVDKLKRAVKKPYTLVNYYGPSDNTVVARSAEIHPEEGSL
+                     SIGRAIANTRVYILGEGNQVQPEGVAGELCVAGRGLARGYLNREDETAKRFVADPFVPG
+                     ERMYRTGDLVKWVNGGIEYIGRIDQQVKVRGYRIELSEIEVQLAQLSEVQDAAVTAVKD
+                     KGGNTAIAAYVTPETADIEALKSTLKETLPDYMIPAFWVTLNELPVTANGKVDRKALPE
+                     PDIEAGSGEYKAPTTDMEELLAGIWQDVLGMSEVGVTDNFFSLGGDSIKGIQMASRLNQ
+                     HGWKLEMKDLFQHPTIEALTQYVERAEGKQADQGPVEGEVILTPIQRWFFEKNFTNKHH
+                     WNQSVMLHA"
+     protocluster    1..1049
+                     /aStool="rule-based-clusters"
+                     /contig_edge="True"
+                     /core_location="[0:1047](-)"
+                     /cutoff="20000"
+                     /detection_rule="(cds(Condensation and (AMP-binding or
+                     A-OX)) or (Condensation and AMP-binding))"
+                     /neighbourhood="20000"
+                     /product="NRPS"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      complement(1..1047)
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="(cds(Condensation and (AMP-binding or
+                     A-OX)) or (Condensation and AMP-binding))"
+                     /neighbourhood="20000"
+                     /product="NRPS"
+                     /protocluster_number="1"
+     cand_cluster    1..1049
+                     /SMILES=""
+                     /candidate_cluster_number="1"
+                     /contig_edge="True"
+                     /detection_rules="(cds(Condensation and (AMP-binding or
+                     A-OX)) or (Condensation and AMP-binding))"
+                     /kind="single"
+                     /product="NRPS"
+                     /protoclusters="1"
+                     /tool="antismash"
+     region          1..1049
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="True"
+                     /product="NRPS"
+                     /region_number="1"
+                     /rules="(cds(Condensation and (AMP-binding or A-OX)) or
+                     (Condensation and AMP-binding))"
+                     /tool="antismash"
+     CDS_motif       complement(52..81)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_ctg55_1_0004"
+                     /evalue="1.90E-05"
+                     /label="NRPS-E1"
+                     /locus_tag="ctg55_1"
+                     /score="17.2"
+                     /tool="antismash"
+                     /translation="LTPIQRWFFEK"
+     aSDomain        complement(127..330)
+                     /aSDomain="PCP"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_ctg55_1_PCP.1"
+                     /evalue="6.80E-29"
+                     /label="ctg55_1_PCP.1"
+                     /locus_tag="ctg55_1"
+                     /score="91.6"
+                     /tool="antismash"
+                     /translation="EELLAGIWQDVLGMSEVGVTDNFFSLGGDSIKGIQMASRLNQHGW
+                     KLEMKDLFQHPTIEALTQYVERAE"
+     CDS_motif       complement(238..267)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_ctg55_1_0003"
+                     /evalue="3.40E-03"
+                     /label="PCP_mC"
+                     /locus_tag="ctg55_1"
+                     /score="10.8"
+                     /tool="antismash"
+                     /translation="NFFSLGGDSIK"
+     CDS_motif       complement(616..681)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_ctg55_1_0002"
+                     /evalue="5.90E-12"
+                     /label="NRPS-A_a8"
+                     /locus_tag="ctg55_1"
+                     /score="37.5"
+                     /tool="antismash"
+                     /translation="YIGRIDQQVKVRGYRIELSEIEV"
+     CDS_motif       complement(760..849)
+                     /aSTool="nrps_pks_domains"
+                     /database="abmotifs"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksmotif_ctg55_1_0001"
+                     /evalue="1.10E-16"
+                     /label="NRPS-A_a6"
+                     /locus_tag="ctg55_1"
+                     /score="52.8"
+                     /tool="antismash"
+                     /translation="PEGVAGELCVAGRGLARGYLNREDETAKRFV"
+ORIGIN
+        1 ggcgtgaagc atcaccgatt ggttccagtg gtgcttgttc gtgaagttct tttcaaagaa
+       61 ccagcgctgg atcggcgtca ggatgacttc gccctccacc gggccttgat ctgcctgttt
+      121 gccttcggca cgctctacat attgggtaag cgcctcgatc gtcgggtgct ggaagagatc
+      181 tttcatttcc agcttccagc cgtgctggtt caagcggctc gccatttgaa ttcctttgat
+      241 ggaatctccg ccaagcgaga agaaattgtc ggtgacaccg acttcagaca ttccaagcac
+      301 gtcctgccag atgccggcaa gcagctcttc catgtcggtc gtcggcgctt tgtattctcc
+      361 gcttcccgct tcgatgtccg gctcaggcaa ggctttgcgg tcgactttgc cgtttgccgt
+      421 aaccggaagc tcgttcagcg tcacccagaa cgccgggatc atgtaatccg gcagggtttc
+      481 ctttagtgtt gattttagtg cttctatgtc agctgtttcc ggtgtgacat acgccgcgat
+      541 cgctgtattg ccgcctttat ctttgacagc tgttaccgcc gcatcctgca cctcagaaag
+      601 ctgggcgagc tggacttcaa tttctgagag ctcgatccgg tagccgcgga ccttgacctg
+      661 ctggtcgatc cggccgatgt attcgatgcc gccgttcacc cacttcacca agtcgccggt
+      721 gcggtacatg cgttcacccg gcacaaacgg atcagcgaca aaccgcttcg cggtttcgtc
+      781 ttctcgattc agatagcctc gtgccagtcc gcgccccgcc acgcaaagct ctccggctac
+      841 gccttccggc tgcacctgat tgccctcgcc gagaatgtat actctcgtat tggcaatggc
+      901 ccgtccgatg gaaagcgagc cttcctccgg atggatttct gcgcttctgg caacgaccgt
+      961 attatctgac ggcccgtagt agttgacgag tgtgtacggc tttttcactg cccgcttcag
+     1021 cttgtctact ccggtcaaga ggccgcgaa
+//
