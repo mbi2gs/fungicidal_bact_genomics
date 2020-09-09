@@ -21,6 +21,7 @@ Here's a full list of make commands:
  help                                        : Show this help message
  build-image                                 : Build the docker image for notebooks
  build-graphlan                              : Build the docker image for graphlan
+ build-alluvial                              : Build the docker image for ggalluvial
  run-notebook                                : Run the notebook server
  stop-notebook                               : Stop the notebook server
  get-url                                     : Get the URL of the notebook server
@@ -30,6 +31,7 @@ Here's a full list of make commands:
  data/sa_rf_model_pickle                     : Train the machine learning models
  data/collection_query_pa.tsv                : Evaluate performance of ML models on validation set
  generate-cladograms                         : Produce the cladogram from the ms
+ generate-cladograms                         : Produce the cladogram from the ms
  clean                                       : delete all images and derivations, keeping only original data files
  all                                         : reproduce all figures and analyses
 
@@ -38,6 +40,7 @@ Here's a full list of make commands:
 |                | Figure        | Legend |
 | -------------  |:-------------:|  -----:|
 | Full Cladogram | <img src="images/full_cladogram.png" width="300"> | <img src="images/cladogram_legend_actives.png" width="120">  |
+| Alluvial of all screened isolates| <img src="images/all_screened_alluvial.png" width="300"> |   |
 | Only Actives   | <img src="images/actives_cladogram.png" width="300"> | <img src="images/cladogram_legend_actives.png" width="120"> |
 | Metadata Co-Variance | <img src="images/category_covariance.png" width="300"> |   |
 | BGC Co-Occurrence | <img src="images/sa_features_cooccurence.png" width="300"> |   |

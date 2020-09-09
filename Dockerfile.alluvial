@@ -1,0 +1,3 @@
+FROM rocker/tidyverse:4.0.0
+
+RUN Rscript -e "install.packages('ggalluvial')"

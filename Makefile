@@ -20,6 +20,11 @@ build-graphlan: Dockerfile.graphlan
 	docker build -t graphlan_cntnr -f Dockerfile.graphlan . \
 	&& touch $@
 
+## build-alluvial                              : Build the docker image for ggalluvial
+build-alluvial: Dockerfile.alluvial
+	docker build -t alluvial_cntnr -f Dockerfile.alluvial . \
+	&& touch $@
+
 ## run-notebook                                : Run the notebook server
 .PHONY: run-notebook
 run-notebook: build-image stop-notebook
@@ -139,6 +144,10 @@ images/actives_cladogram.png: build-graphlan \
 ## generate-cladograms                         : Produce the cladogram from the ms        
 generate-cladograms: images/actives_cladogram.png images/full_cladogram.png
 
+## generate-alluvial                       	   : Produce the alluvial from the ms     
+generate-alluvial: data/isolates.tsv
+	./scripts/drun_alluvial.sh Rscript notebooks/all_screened_alluvial.R
+
 ## clean                                       : delete all images and derivations, keeping only original data files
 clean: 
 	rm -f images/* && \
@@ -151,4 +160,5 @@ all: images/category_covariance.png \
      images/model_cv.png \
      data/sa_rf_model_pickle \
      data/collection_query_pa.tsv \
-     generate-cladograms
+     generate-cladograms \
+     generate-alluvial
