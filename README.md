@@ -57,6 +57,7 @@ In brief, the `make all` command runs the following notebooks:
 - `prioritization_exp_model_training.ipynb` generates Supplemental Figure 5, and trains the models used in the in vivo experiment
 - `model_performance.ipynb` evaluates the results of the in vivo experiment, generates Figure 4.
 - `figure2_cladogram.ipynb` generates the GraphLan files to produce the cladograms in Figure 2 and Supplemental Figure 1.
+- `all_screened_alluvial.R` generates the alluvial plot of all screened isolates in Figure 2.
 
 The code and data in this notebook fit together like this:
 <img src="images/nbflow.png" width="700">
