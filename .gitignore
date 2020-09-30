@@ -5,6 +5,7 @@ data/.ipynb_checkpoints/
 .ipynb_checkpoints/
 build-graphlan
 build-image
+build-alluvial
 
 data/actives_cladogram.txt
 data/actives_cladogram.xml
