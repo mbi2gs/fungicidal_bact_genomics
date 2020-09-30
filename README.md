@@ -49,6 +49,9 @@ Here's a full list of make commands:
 | ML Performance and Taxonomic Signal | <img src="images/tax_correlation.png" width="300"> |   |
 | Excluding taxa from training set | <img src="images/tax_exclusion.png" width="300"> |   |
 | Model performance in validation experiment | <img src="images/performance_validation.png" width="300"> |   |
+| Model performance in compared to random draws | <img src="images/performance_compared_random_sims.png" width="300"> |   |
+
+
 
 In brief, the `make all` command runs the following notebooks:
 - `summaries_and_table1.ipynb` generates Table 1 and Supplemental Figure 2
