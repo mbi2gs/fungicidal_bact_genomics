@@ -144,7 +144,7 @@ images/actives_cladogram.png: build-graphlan \
 ## generate-cladograms                         : Produce the cladogram from the ms        
 generate-cladograms: images/actives_cladogram.png images/full_cladogram.png
 
-## generate-alluvial                       	   : Produce the alluvial from the ms     
+## generate-alluvial                           : Produce the alluvial from the ms     
 generate-alluvial: data/isolates.tsv
 	./scripts/drun_alluvial.sh Rscript notebooks/all_screened_alluvial.R
 
